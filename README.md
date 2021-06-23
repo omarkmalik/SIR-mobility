@@ -23,7 +23,7 @@ In **data/mobility** folder, each file contains the number of subway riders from
 
 ### Turnstile_data
 
-In **data/turnstile_data/** folder, each file contains the detailed daily count of arraival and departures from borough to other boroughs, at each time stamp of the day.
+In **data/turnstile_data/** folder, each file contains the detailed daily count of arraival and departures from borough to other boroughs, at each time stamp of the day. The original datasets can be accessed from: http://web.mta.info/developers/turnstile.html. Each file contains one-week turnstile data for all of the subway stations in NYC.
 
 ### example.py
 
